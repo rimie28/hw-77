@@ -1,0 +1,14 @@
+[
+  {
+    "id": "32cb5d91-71f6-4e1a-a683-2dd1cbcd1ead",
+    "author": "John Doe ",
+    "message": "Hello!",
+    "image": null
+  },
+  {
+    "id": "dcc58231-14ed-4145-ba72-6c4939a2c74c",
+    "author": "Nelson Mandela",
+    "message": "Hello!",
+    "image": "/images/6a0c787ed2926e749ccddd00580f2b41"
+  }
+]
